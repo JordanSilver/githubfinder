@@ -4,7 +4,7 @@ GitHub user finder!
 
 In the project directory, you can run:
 
-### 'npm install'
+### `npm install`
 
 Install the nessessary dependencies for this application from the package.json file.
 
